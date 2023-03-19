@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Jonatas Lima 👋
 
-⚛️ Estudando React JS
-
 🕵️ Buscando oportunidades...
 
 
