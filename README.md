@@ -33,4 +33,4 @@
 </div>
 
 ### ✨ Contributions
-![Snake Animation](https://github.com/Deivison-Costa/Deivison-Costa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/JonataSzLm/JonataSzLm/blob/output/github-contribution-grid-snake-dark.svg)
